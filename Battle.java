@@ -1,3 +1,9 @@
+//*********************************************************************
+// Author: Joshua Hicks
+// Version: 1.20
+// A single class that will simulate battles for the board game RISK.
+//*********************************************************************
+
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
